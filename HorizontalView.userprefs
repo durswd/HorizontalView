@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{403CB330-FCA0-4E2C-A9E4-3E80EB8CB3CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HorizontalView/HorizontalViewPage.xaml">
+    <Files>
+      <File FileName="HorizontalView/HorizontalViewPage.xaml" Line="20" Column="13" />
+      <File FileName="HorizontalView/App.xaml" Line="7" Column="1" />
+      <File FileName="HorizontalView/HorizontalView.cs" Line="100" Column="23" />
+      <File FileName="HorizontalView/HorizontalViewPage.xaml.cs" Line="19" Column="35" />
+      <File FileName="HorizontalView/obj/Debug/HorizontalView.HorizontalViewPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="HorizontalView/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HorizontalView.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B6F161B9-3525-4E4D-AD30-C488F54DBE31">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HorizontalView.iOS>
+</Properties>
